@@ -4,7 +4,7 @@ import buttons as kb
 
 
 
-bot = Bot('1602089269:AAG9_6ayv-RldHq7_DDBL3ZxYNUt-vZetfQ')
+bot = Bot('use your own token')
 dp = Dispatcher(bot)
 
 
